@@ -1,0 +1,1 @@
+# anagor-nqueens
