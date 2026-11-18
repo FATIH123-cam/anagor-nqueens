@@ -1,0 +1,5 @@
+# Dependensi Utama untuk Visualisasi Benchmark
+matplotlib>=3.7.0
+
+# Dependensi Opsional untuk Development & Testing Lanjutan
+pytest>=7.4.0
